@@ -1,0 +1,19 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="10.168.0.5" id="24387737-b784-4226-9250-cf3c35a94a06" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="e473b3b8-d703-4c03-891e-ad9da5aeed1c" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="bfea34ef-16a2-4fc9-aa62-872961d3485b" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="ae4a7bd2-087c-411f-8a68-83fd91e2d54f" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="48d6676d-2c43-4859-95e0-8e2af924c0b9" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="204c55cf-0b12-40a2-9023-c919bb4697f9" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="4d4f9840-3028-4cb4-9f66-e3126f6ad234" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="f3aa8489-1c30-476d-8812-965c8aee96cd" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="fe7c27e3-dfcf-4d4f-9376-79aa85d95308" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="9644b2a3-c1ba-4251-b1a1-f5f90a9f6fc4" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="30e4e2fe-f4b5-4632-a3c0-408563c89822" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="b250a77a-b2e2-4a3a-8c87-9fdb4e2fca56" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+      <sshConfig host="10.168.0.5" id="113e0be6-2b95-47f1-856a-680966586215" keyPath="B:\.ssh\id_rsa" port="22" customName="local" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
