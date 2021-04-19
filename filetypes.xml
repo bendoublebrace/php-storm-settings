@@ -4,8 +4,8 @@
       <mapping pattern=".config.js.swp" type="JavaScript" />
       <mapping ext="rpt" type="PHP" />
       <mapping pattern="sitelist" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="0a2fe42735b9b504_0" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncignore" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
