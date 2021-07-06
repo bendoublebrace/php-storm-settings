@@ -35,4 +35,11 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
+  </component>
 </application>
