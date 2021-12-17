@@ -10,6 +10,7 @@
       <mapping pattern="6skms4scpfsa1hdpk7jnhlhfnpfhhe5jg56troo1" type="PLAIN_TEXT" />
       <mapping pattern="tmp-password" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncignore" type="PLAIN_TEXT" />
+      <mapping pattern="wc-post-sale" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
