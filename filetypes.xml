@@ -7,6 +7,7 @@
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="req" type="PLAIN_TEXT" />
+      <mapping pattern="migrate" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="0a2fe42735b9b504_0" type="PLAIN_TEXT" />
       <mapping pattern="6skms4scpfsa1hdpk7jnhlhfnpfhhe5jg56troo1" type="PLAIN_TEXT" />
