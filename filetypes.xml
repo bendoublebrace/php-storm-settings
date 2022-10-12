@@ -12,6 +12,7 @@
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="0a2fe42735b9b504_0" type="PLAIN_TEXT" />
+      <mapping pattern="test-api" type="PLAIN_TEXT" />
       <mapping pattern="6skms4scpfsa1hdpk7jnhlhfnpfhhe5jg56troo1" type="PLAIN_TEXT" />
       <mapping pattern="tmp-password" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncignore" type="PLAIN_TEXT" />
