@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -20,7 +21,7 @@
     <mask>Dockerfile</mask>
     <mask>*.css</mask>
     <mask>*.sql</mask>
-    <mask>*.php</mask>
     <mask>*.twig</mask>
+    <mask>*.php</mask>
   </component>
 </application>
