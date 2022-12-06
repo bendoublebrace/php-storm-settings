@@ -1,12 +1,11 @@
-<scheme name="ben" version="142" parent_scheme="Default">
+<scheme name="ben copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="description" />
+    <property name="created">2022-12-06T10:28:44</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2020.2.0.0</property>
     <property name="modified">2022-12-06T10:30:16</property>
-    <property name="vendorMail" />
-    <property name="vendorName" />
-    <property name="vendorUrl">http://</property>
-    <property name="version">0.1</property>
+    <property name="originalScheme">ben</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="12" />
