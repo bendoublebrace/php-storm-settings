@@ -16,10 +16,10 @@
     <mask>*.yaml</mask>
     <mask>*.js</mask>
     <mask>Dockerfile</mask>
-    <mask>*.sql</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
+    <mask>*.sql</mask>
     <mask>*.php</mask>
   </component>
 </application>
