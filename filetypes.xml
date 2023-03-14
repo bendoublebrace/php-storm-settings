@@ -27,10 +27,12 @@
       <mapping pattern="dev_mode" type="Shell Script" />
       <mapping pattern="update-asset-version" type="Shell Script" />
       <mapping pattern="convert" type="Shell Script" />
+      <removed_mapping ext="css" approved="true" type="Sass" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern="*/build/*.css" approved="true" type="SCSS" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
