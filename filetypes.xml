@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern=".config.js.swp" type="JavaScript" />
       <mapping ext="rpt" type="PHP" />
       <mapping pattern="sitelist" type="PLAIN_TEXT" />
@@ -23,11 +24,12 @@
       <mapping ext="default" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="css" type="SCSS" />
       <mapping pattern="test" type="Shell Script" />
       <mapping pattern="dev_mode" type="Shell Script" />
       <mapping pattern="update-asset-version" type="Shell Script" />
       <mapping pattern="convert" type="Shell Script" />
-      <removed_mapping ext="css" approved="true" type="Sass" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
