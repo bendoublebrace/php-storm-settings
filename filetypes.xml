@@ -5,6 +5,7 @@
       <mapping pattern=".config.js.swp" type="JavaScript" />
       <mapping ext="rpt" type="PHP" />
       <mapping pattern="sitelist" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="req" type="PLAIN_TEXT" />
