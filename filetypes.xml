@@ -21,6 +21,7 @@
       <mapping pattern="tmp-password" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncignore" type="PLAIN_TEXT" />
       <mapping pattern="wc-post-sale" type="PLAIN_TEXT" />
+      <mapping pattern=".direnv" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
