@@ -7,8 +7,8 @@
       <mapping pattern="sitelist" type="PLAIN_TEXT" />
       <mapping pattern="proxy" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="req" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="migrate" type="PLAIN_TEXT" />
